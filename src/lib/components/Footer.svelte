@@ -7,7 +7,7 @@
     display: flex;
     align-items: center;
     background-color: var(--color-bg2);
-    height: 20px;
+    height: 30px;
     padding: 0 20px;
   }
 
